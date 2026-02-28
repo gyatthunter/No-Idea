@@ -14,7 +14,8 @@ public class StudentDetails {
 
         System.out.println("Enter Your Marks: ");
         double marks = input.nextDouble();
-        System.out.println("");
+        
+        System.out.println("\n\nj"); // /n is for twogit  space. /n/n is for 3
 
         System.out.println("Name - " +name);
         System.out.println("Roll - " +roll);
